@@ -1,3 +1,6 @@
 [submodule "Vue-yggycsBlog"]
 	path = Vue-yggycsBlog
 	url = git@github.com:yggycs/Vue-yggycsBlog.git
+[submodule "SpringBoot-yggycsBlog"]
+	path = SpringBoot-yggycsBlog
+	url = git@github.com:yggycs/SpringBoot-yggycsBlog.git
