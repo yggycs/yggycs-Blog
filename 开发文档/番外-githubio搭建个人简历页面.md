@@ -6,7 +6,7 @@
 首先需要在github中新建项目，项目名为yggycs.github.io
 
 ### Step2. 寻找模板
-使用的是学术主页模板(项目链接：https://link.zhihu.com/?target=https%3A//github.com/academicpages/academicpages.github.io)，寻找对应的release，下载下来以后把文件push到yggycs.github.io项目中。
+使用的是[Github某开源学术主页模板](https://github.com/academicpages/academicpages.github.io)，寻找对应的release，下载下来以后把文件push到yggycs.github.io项目中。
 
 ### Step3. 修改模板内容
 待补充
