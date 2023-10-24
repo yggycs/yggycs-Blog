@@ -12,7 +12,7 @@
 
 **Vue-yggycsBlog**为外链github项目，是yggycs-Blog的前端项目。
 
-**SpringBoot**为外链github项目，是yggycs-Blog的后端项目。
+**SpringBoot-yggycsBlog**为外链github项目，是yggycs-Blog的后端项目。
 
 ## 写在最后
 最后不了一点。
